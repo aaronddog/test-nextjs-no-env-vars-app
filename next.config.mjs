@@ -18,7 +18,7 @@ const nextConfig = {
             sourcemaps: {
               minifiedPathPrefix: '/',
               releaseVersion: '1.0.0',
-              service: 'my-service',
+              service: 'law-ai-chatbot',
               projectPath: '.',
             },
           }
